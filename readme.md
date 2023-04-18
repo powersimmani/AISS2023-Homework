@@ -45,7 +45,6 @@ Congratulations on passing the AISS qualification exam! As a successful applican
 -   [How Computers Read Code](https://www.youtube.com/watch?v=QXjU9qTsYCc) (approx. 10 min)
 -   [How Does a Computer Understand Your Program](https://www.youtube.com/watch?v=3wuMRPhSNd0) (approx. 10 min)
 -   [32-bit vs 64-bit](https://www.youtube.com/watch?v=Wu2A4fpFzgs) (approx. 10 min)
--   [Command Line Interface](https://www.youtube.com/watch?v=mUXVBMhr7Xg) (approx. 10 min)
 
 ## 4. Basic Computer Network
 
@@ -61,3 +60,9 @@ Congratulations on passing the AISS qualification exam! As a successful applican
 -   [VPN](https://www.youtube.com/watch?v=R-JUOpCgTZc) (approx. 10 min)
 -   [Virtualization](https://www.youtube.com/watch?v=UBVVq-xz5i0) (approx. 10 min)
 -   [Containers](https://www.youtube.com/watch?v=eyNBf1sqdBQ) (approx. 10 min)
+
+## 5. Basic Operating (Linux) System
+-   [Command Line Interface](https://www.youtube.com/watch?v=mUXVBMhr7Xg) (approx. 10 min)
+-   [Linux path](https://www.youtube.com/watch?v=MYdgugJT0TQ&t=274s) (approx. 10 min)
+-   [Linux file subsystem](https://www.youtube.com/watch?v=42iQKuQodW4) (approx. 10 min)
+-   [Environment variables](https://www.youtube.com/watch?v=bd65z5VZ7L4) (approx. 10 min)
